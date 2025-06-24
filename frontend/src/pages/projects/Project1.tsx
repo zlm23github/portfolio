@@ -258,7 +258,7 @@ export default function Project1() {
               <div className="bg-white rounded-xl shadow-sm border p-6">
                 <div className="flex items-center mb-4">
                   <ChartBarIcon className="h-6 w-6 text-green-600 mr-2" />
-                  <h2 className="text-2xl font-bold text-gray-900">Futher Optimization</h2>
+                  <h2 className="text-2xl font-bold text-gray-900">Further Optimization</h2>
                 </div>
                 
                 {/* Before/After Comparison */}
