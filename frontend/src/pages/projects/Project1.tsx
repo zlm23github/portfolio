@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import MainLayout from '../../layout/MainLayout'
 import { 
   CodeBracketIcon, 
@@ -14,8 +13,6 @@ import {
 } from '@heroicons/react/24/outline'
 
 export default function Project1() {
-  const [showCode, setShowCode] = useState(false);
-
   return (
     <MainLayout>
       <div className="bg-gradient-to-br from-gray-50 to-gray-100 min-h-screen">
