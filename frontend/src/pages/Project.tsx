@@ -14,7 +14,7 @@ export default function Project() {
           >
             <div
               className="w-full h-48 rounded-lg mb-6 bg-cover bg-center"
-              style={{ backgroundImage: "url('/assets/project1.jpg')" }}
+              style={{ backgroundImage: "url('/portfolio/assets/project1.jpg')" }}
             />
             <h3 className="text-2xl font-semibold text-gray-900 mb-2">Mini Product Search</h3>
             <p className="text-gray-600">A high-performance monolithic product search application built with Spring Boot, MySQL, and Elasticsearch.
