@@ -8,7 +8,7 @@ interface MainLayoutProps {
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Project', href: '/project' },
-  { name: 'Contact', href: '/contact' },
+  // { name: 'Contact', href: '/contact' },
 ]
 
 function classNames(...classes: (string | undefined | null | false)[]): string {

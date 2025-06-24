@@ -10,24 +10,24 @@ export default function About() {
             <h2 className="text-3xl font-extrabold mb-4">About Me</h2>
             <p className="mb-8 leading-relaxed font-medium">
               Hi, I'm Liming Zheng, just graduated from Northeastern University as a Computer Science major. Before this, I earned a master's degree in Finance at the University of Rochester and bachelor's degree in Finance at University of Nebraska-Lincoln, honing my skills in critical thinking and collaboration.<br /><br />
-              Driven by a passion for programming languages, I transitioned to the field of computer science. My coding proficiency includes Java, Javascript, Typescript, etc. I have hands-on experience in executing a full-stack project and completing various independent Java projects.<br /><br />
+              I transitioned from finance to technology driven by a love for coding and problem solving. My technical skills include Java and Python for backend development, combined with experience in Spring Boot, RESTful API design, and cloud deployment. I’ve built full-stack projects and microservices, and enjoy designing solutions that are both efficient and scalable.<br /><br />
               Now, I am enthusiastic about participating in collaborative team efforts, recognizing the potential for heightened efficiency and creativity that teamwork can bring. I am looking for opportunities where I can keep learning more technical skills, keep making impacts, and collaborate with people.
             </p>
             <div className="flex flex-col sm:flex-row gap-8 mt-8">
               <a
-                href="/resume.pdf"
+                href="/portfolio/assets/LimingZheng-Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gray-900 !text-white no-underline text-lg font-bold py-2 px-12 rounded-lg shadow-lg hover:bg-gray-700 transition focus:outline-none"
               >
-                RESUME
+                GET MY RESUME
               </a>
             </div>
           </div>
           {/* photo */}
           <div className="flex-shrink-0 w-full md:w-[400px] h-[400px] bg-gray-200 rounded-lg shadow-md flex items-center justify-center mt-12 md:mt-0 overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=facearea&w=400&h=400&q=80"
+              src="/portfolio/assets/me.jpg"
               alt="Liming Zheng"
               className="object-cover w-full h-full"
             />
@@ -51,7 +51,7 @@ export default function About() {
           <h2 className="text-3xl font-extrabold mb-6">Education</h2>
           <div className="bg-white rounded-lg shadow p-8 text-lg text-gray-800">
             <ul className="list-disc pl-6 space-y-2">
-              <li>MS in Computer Science, Northeastern University, 2022-2024</li>
+              <li>MS in Computer Science, Northeastern University, 2022-2024   GPA: 3.8/4.0</li>
               <li>MS in Finance, University of Rochester, 2021-2022</li>
               <li>BS in Finance, University of Nebraska-Lincoln, 2016-2020</li>
             </ul>
