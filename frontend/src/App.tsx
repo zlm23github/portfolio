@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import About from './pages/About'
 import Project from './pages/Project'
 import Contact from './pages/Contact'
-import Project1 from './pages/Project1'
+import Project1 from './pages/projects/Project1'
 import Project2 from './pages/Project2'
 
 function App() {
