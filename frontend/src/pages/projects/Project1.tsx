@@ -578,7 +578,7 @@ public class ProductESService {
               <div className="bg-white rounded-xl shadow-sm border p-6">
                 <h3 className="text-lg font-semibold text-gray-900 mb-4">Code Links</h3>
                 <div className="space-y-3">
-                  <a href="https://github.com/zlm23github/ProductSearch" className="block w-full bg-[#181e2a] text-white text-center py-2 px-4 rounded-lg hover:bg-green-700 transition-colors text-sm">
+                  <a href="https://github.com/zlm23github/ProductSearch" target="_blank" rel="noopener noreferrer" className="block w-full bg-[#181e2a] text-white text-center py-2 px-4 rounded-lg hover:bg-green-700 transition-colors text-sm">
                     GitHub Source
                   </a>
                 </div>
