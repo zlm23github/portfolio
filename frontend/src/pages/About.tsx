@@ -9,9 +9,9 @@ export default function About() {
           <div className="flex-1 text-gray-900 text-xl md:pr-12">
             <h2 className="text-3xl font-extrabold mb-4">About Me</h2>
             <p className="mb-8 leading-relaxed font-medium">
-              Hi, I'm Liming Zheng, just graduated from Northeastern University as a Computer Science major. Before this, I earned a master's degree in Finance at the University of Rochester and bachelor's degree in Finance at University of Nebraska-Lincoln, honing my skills in critical thinking and collaboration.<br /><br />
-              I transitioned from finance to technology driven by a love for coding and problem solving. My technical skills include Java and Python for backend development, combined with experience in Spring Boot, RESTful API design, and cloud deployment. I’ve built full-stack projects and microservices, and enjoy designing solutions that are both efficient and scalable.<br /><br />
-              Now, I am enthusiastic about participating in collaborative team efforts, recognizing the potential for heightened efficiency and creativity that teamwork can bring. I am looking for opportunities where I can keep learning more technical skills, keep making impacts, and collaborate with people.
+              Hi, I'm Liming Zheng. I recently graduated from Northeastern University with a major in Computer Science. Prior to that, I earned a master's degree in Finance from the University of Rochester and a bachelor's degree in Finance from the University of Nebraska–Lincoln, where I honed my skills in critical thinking and collaboration.<br /><br />
+              I transitioned from finance to technology out of a deep interest in coding and problem solving. My technical skills include backend development in Java and Python, with hands-on experience in Spring Boot, RESTful API design, and cloud deployment. I’ve built full-stack applications and microservices, and I enjoy designing solutions that are both efficient and scalable.<br /><br />
+              Currently, I'm enthusiastic about contributing to collaborative team efforts, recognizing the potential for greater efficiency and creativity through teamwork. I’m looking for opportunities where I can continue to grow my technical skills, make meaningful contributions, and work closely with others.
             </p>
             <div className="flex flex-col sm:flex-row gap-8 mt-8">
               <a

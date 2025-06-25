@@ -3,7 +3,7 @@ import About from './pages/About'
 import Project from './pages/Project'
 //import Contact from './pages/Contact'
 import Project1 from './pages/projects/Project1'
-import Project2 from './pages/Project2'
+import Project2 from './pages/projects/Project2'
 
 function App() {
   return (

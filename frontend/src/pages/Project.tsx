@@ -27,10 +27,10 @@ export default function Project() {
           >
             <div
               className="w-full h-48 rounded-lg mb-6 bg-cover bg-center"
-              style={{ backgroundImage: "url('https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=facearea&w=600&q=80')" }}
+              style={{ backgroundImage: "url('/portfolio/assets/data_modeling.jpg')" }}
             />
-            <h3 className="text-2xl font-semibold text-gray-900 mb-2">Project 2</h3>
-            <p className="text-gray-600">Description of project 2</p>
+            <h3 className="text-2xl font-semibold text-gray-900 mb-2">Box Office Prediction</h3>
+            <p className="text-gray-600">A system for predicting movie box office performance using machine learning and MongoDB. Supports data analysis, and feature usage analytics.</p>
           </Link>
           {/* Project Card 3 */}
           <Link
@@ -41,8 +41,8 @@ export default function Project() {
               className="w-full h-48 rounded-lg mb-6 bg-cover bg-center"
               style={{ backgroundImage: "url('https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80')" }}
             />
-            <h3 className="text-2xl font-semibold text-gray-900 mb-2">Project 3</h3>
-            <p className="text-gray-600">Description of project 3</p>
+            <h3 className="text-2xl font-semibold text-gray-900 mb-2">Upcoming Project...</h3>
+            <p className="text-gray-600">...</p>
           </Link>
         </div>
       </div>
