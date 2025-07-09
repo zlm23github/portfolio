@@ -60,13 +60,13 @@ export default function Project() {
             >
               <div
                 className="w-full h-48 rounded-lg mb-6 bg-cover bg-center"
-                style={{ backgroundImage: "url('https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80')" }}
+                style={{ backgroundImage: "url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80')" }}
               />
               <div className="flex items-center gap-3 mb-2">
-                <div className="w-3 h-3 bg-gray-400 rounded-full animate-pulse"></div>
-                <h3 className="text-2xl font-semibold text-gray-900">Upcoming Project...</h3>
+                <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
+                <h3 className="text-2xl font-semibold text-gray-900">Distributed Task Scheduler Practice</h3>
               </div>
-              <p className="text-gray-600">...</p>
+              <p className="text-gray-600">A robust distributed task processing system built with Python, RabbitMQ, and Redis. Features multiple workers with load balancing, real-time monitoring, fault tolerance, and graceful shutdown capabilities for scalable task processing.</p>
             </Link>
           </div>
         </section>
