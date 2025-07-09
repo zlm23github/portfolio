@@ -2,20 +2,16 @@ import MainLayout from '../../layout/MainLayout'
 import { 
   CodeBracketIcon, 
   ChartBarIcon, 
-  CogIcon, 
   DocumentTextIcon,
   ServerIcon,
-  CircleStackIcon,
   RocketLaunchIcon,
   LightBulbIcon,
   CheckCircleIcon,
-  ArrowTrendingUpIcon,
-  ComputerDesktopIcon,
   ClockIcon,
   ExclamationTriangleIcon,
   LightBulbIcon as LightBulbIconSolid
 } from '@heroicons/react/24/outline'
-import React, { useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import mermaid from 'mermaid';
 
 // Custom Mermaid chart component
